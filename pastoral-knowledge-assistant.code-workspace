@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.autoRepositoryDetection": false,
+		"git.scanRepositories": [
+			"/Users/schoedel/projects/pastoral-knowledge-assistant"
+		]
+	}
+}
